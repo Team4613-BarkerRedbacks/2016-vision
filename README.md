@@ -33,4 +33,5 @@ Vision code used for the 2016 FRC game Stronghold.
 * numpy - dependency of OpenCV, must be imported in order to store images in ram
 * networktables - allows the pi to communicate with the RoboRIO. From https://github.com/robotpy/pynetworktables
 * picamera - library to easily take pictures and videos from the RasPi Camera. installed using guide from http://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+
 FYI VisionMap is a module to hold magic numbers and other info, it is not a library, it is a file in the same directory as vision.py
